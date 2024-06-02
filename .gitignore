@@ -25,3 +25,4 @@ Manifest.toml
 
 # Data files that should not be committed
 pgrksol.csv.gz
+lmm_data.csv
